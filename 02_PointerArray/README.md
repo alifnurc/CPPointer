@@ -18,6 +18,8 @@ ptr = arr;
 
 This will assign the address of the first element of the array to the pointer.
 
+## Accessing
+
 So to access the first element, you can use `*ptr`:
 
 ```cpp
