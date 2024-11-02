@@ -8,6 +8,8 @@ ptr = *arr; // ptr mean 0
 
 Array start at 0.
 
+| Dimension | 0 | 1 | 2 | 3 |
+| --------- | - | - | - | - |
 | 1st dimension | 1 | 2 | 3 | 4 |
 | 2nd dimension | 5 | 6 | 7 | 8 |
 
