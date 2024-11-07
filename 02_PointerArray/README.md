@@ -6,6 +6,7 @@
 int arr[3] = {1, 2, 3};
 int *ptr = arr;
 ```
+
 is same with
 
 ## Assignment

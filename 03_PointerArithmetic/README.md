@@ -2,12 +2,12 @@
 
 Arithmetic operator can be used with pointers which are:
 
-| Operator | Description |
-| -------- | ----------- |
-| `+` | Add offset to pointer |
-| `-` | Subtract offset from pointer |
-| `++` | Increment pointer |
-| `--` | Decrement pointer |
+| Operator | Description                  |
+| -------- | ---------------------------- |
+| `+`      | Add offset to pointer        |
+| `-`      | Subtract offset from pointer |
+| `++`     | Increment pointer            |
+| `--`     | Decrement pointer            |
 
 Because array is a linear data structure, we can use pointer arithmetic to access its elements.
 
