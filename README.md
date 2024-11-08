@@ -42,3 +42,4 @@ cmake --build .
 | [03](03_PointerArithmetic/README.md) | Pointer arithmetic.            |
 | [04](04_PointerNotation/README.md)   | Pointer notation.              |
 | [05](05_PointerToPointer/README.md)  | Pointer to pointer.            |
+| [06](06_VoidPointer/README.md)       | Void pointer.                  |
