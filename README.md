@@ -43,3 +43,4 @@ cmake --build .
 | [04](04_PointerNotation/README.md)   | Pointer notation.              |
 | [05](05_PointerToPointer/README.md)  | Pointer to pointer.            |
 | [06](06_VoidPointer/README.md)       | Void pointer.                  |
+| [07](07_InvalidPointer/README.md)    | Invalid pointer.               |
