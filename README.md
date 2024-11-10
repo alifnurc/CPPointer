@@ -44,3 +44,4 @@ cmake --build .
 | [05](05_PointerToPointer/README.md)  | Pointer to pointer.            |
 | [06](06_VoidPointer/README.md)       | Void pointer.                  |
 | [07](07_InvalidPointer/README.md)    | Invalid pointer.               |
+| [08](08_NULLPointer/README.md)       | NULL pointer.                  |
