@@ -9,7 +9,7 @@ int *ptr1 = 0;
 and
 
 ```cpp
-int *ptr2 = nullptr;
+int *ptr2 = NULL;
 ```
 
 or
