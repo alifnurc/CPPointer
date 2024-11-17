@@ -47,3 +47,4 @@ cmake --build .
 | [08](08_NULLPointer/README.md)         | NULL pointer.                  |
 | [09](09_ConstantPointer/README.md)     | Constant pointer.              |
 | [10](10_ConstPointerToConst/README.md) | Constant pointer to constant.  |
+| [11](11_PointerToConst/README.md)      | Pointer to constant.           |
