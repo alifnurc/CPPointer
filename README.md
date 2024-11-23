@@ -48,3 +48,4 @@ cmake --build .
 | [09](09_ConstantPointer/README.md)     | Constant pointer.              |
 | [10](10_ConstPointerToConst/README.md) | Constant pointer to constant.  |
 | [11](11_PointerToConst/README.md)      | Pointer to constant.           |
+| [12](12_DynamicMemory/README.md)       | Dynamic memory.                |
