@@ -8,5 +8,7 @@ int main(int argc, char *argv[]) {
   std::cout << *ptr << std::endl;
   std::cout << ptr << std::endl;
 
+  delete ptr; // release memory pointed by ptr
+
   return 0;
 }
